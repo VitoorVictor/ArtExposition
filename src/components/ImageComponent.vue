@@ -38,12 +38,6 @@ export default {
 }
 </script>
 <style scoped>
-    #container-image{
-        -webkit-box-shadow: 3px 6px 25px 2px rgba(150,150,150,1);
-        -moz-box-shadow: 3px 6px 25px 2px rgba(150,150,150,1);
-        box-shadow: 3px 6px 25px 2px rgba(150,150,150,1);
-        padding-top: 12px;
-    }
     .imagem-3{
         height: 390px;
         background-image: url('/img/img-3.jpg');

@@ -96,9 +96,7 @@ export default {
     .card{
         margin-bottom: 6rem;
         margin-top: 6rem;
-        -webkit-box-shadow: 3px 6px 25px 2px rgba(150,150,150,1);
-        -moz-box-shadow: 3px 6px 25px 2px rgba(150,150,150,1);
-        box-shadow: 3px 6px 25px 2px rgba(150,150,150,1);
+        box-shadow: 1px 2px 5px 1px rgba(150,150,150,1);
     }
     .BasedCarousel{
         z-index: 1;

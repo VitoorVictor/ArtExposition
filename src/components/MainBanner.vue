@@ -29,13 +29,6 @@ export default {
         left: 25px;
         bottom: 25px;
     }
-    #main-image-container{
-        -webkit-box-shadow: 3px 6px 25px 2px rgba(150,150,150,1);
-        -moz-box-shadow: 3px 6px 25px 2px rgba(150,150,150,1);
-        box-shadow: 3px 6px 25px 2px rgba(150,150,150,1);
-        padding-top: 12px;
-        padding-bottom: 1px;
-    }
     
 
 

@@ -4,7 +4,7 @@
         <div class="card-body d-flex flex-column">
             <h5 class="card-title">{{card.title}}</h5>
             <p class="card-text">{{ card.text }}</p>
-            <a href="#" class="btn btn-primary mt-auto" role="button" data-bs-toggle="modal" data-bs-target="#exampleModal">Ver mais.</a>
+            <a href="#" class="btn btn-dark mt-auto" role="button" data-bs-toggle="modal" data-bs-target="#exampleModal">Ver mais.</a>
         </div>
         <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
             <div class="modal-dialog">
